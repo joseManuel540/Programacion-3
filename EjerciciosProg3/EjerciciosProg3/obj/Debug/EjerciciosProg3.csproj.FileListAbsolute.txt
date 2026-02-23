@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\bin\Debug\EjerciciosProg3.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\bin\Debug\EjerciciosProg3.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\bin\Debug\EjerciciosProg3.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\obj\Debug\EjerciciosProg3.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\obj\Debug\EjerciciosProg3.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\obj\Debug\EjerciciosProg3.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\obj\Debug\EjerciciosProg3.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosProg3\EjerciciosProg3\obj\Debug\EjerciciosProg3.exe.config

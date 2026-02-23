@@ -26,6 +26,19 @@ namespace EjerciciosProg3.Ejercicios
             Console.WriteLine("BIENVENIDO USUARIO");
             Console.WriteLine("Su nombre es: " + nombre);
             Console.WriteLine("Su nivel de experiencia es: " + experiencia);
+            if (experiencia<=33)
+            {
+                Console.WriteLine("Su nivel de experiencia es BAJO");
+            }
+            else if (experiencia>33 && experiencia<=66)
+            {
+                Console.WriteLine("Su nivel de experiencia es MEDIANO");
+            }
+            else if (experiencia>66)
+            {
+                Console.WriteLine("Su nivel de experiencia es ALTO");
+            }
+
             Console.WriteLine("Suscripcion: " + suscripcion);
         }
     }
