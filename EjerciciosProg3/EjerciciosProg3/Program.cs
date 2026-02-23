@@ -11,10 +11,15 @@ namespace EjerciciosProg3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ejercicio 1: ");
             ejercicio1.Ejecutar();
+            Console.WriteLine("Ejercicio 2: ");
             ejercicio2.Ejecutar();
+            Console.WriteLine("Ejercicio 3: ");
             ejercicio3.Ejecutar();
+            Console.WriteLine("Ejercicio 4: ");
             ejercicio4.Ejecutar();
+            Console.WriteLine("Ejercicio 5: ");
             ejercicio5.Ejecutar();
         }
     }
