@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.exe.config
