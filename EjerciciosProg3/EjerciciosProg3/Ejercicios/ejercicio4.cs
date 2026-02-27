@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Generador de Correos Corporativos: Pide al usuario su nombre y apellido.
+//El programa debe generar un correo con el formato nombre.apellido@empresa.com
+//(todo en minúsculas).
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +14,6 @@ namespace EjerciciosProg3.Ejercicios
     {
         public static void Ejecutar()
         {
-            //Generador de Correos Corporativos: Pide al usuario su nombre y apellido.
-            //El programa debe generar un correo con el formato nombre.apellido@empresa.com
-            //(todo en minúsculas).
 
             Console.WriteLine("Ingrese su PRIMER nombre: ");
             String primerNom = Console.ReadLine().ToLower();

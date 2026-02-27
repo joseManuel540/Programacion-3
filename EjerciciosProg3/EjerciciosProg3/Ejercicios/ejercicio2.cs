@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Calculadora de Propina Solidaria: Pide el total de una cuenta en un
+//restaurante. Pregunta qué porcentaje de propina desea dejar (10%, 15% o 20%).
+//Si el total con propina supera los $100.000, muestra un mensaje agradeciendo
+//su generosidad.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +15,6 @@ namespace EjerciciosProg3.Ejercicios
     {
         public static void Ejecutar()
         {
-            //Calculadora de Propina Solidaria: Pide el total de una cuenta en un
-            //restaurante. Pregunta qué porcentaje de propina desea dejar (10%, 15% o 20%).
-            //Si el total con propina supera los $100.000, muestra un mensaje agradeciendo
-            //su generosidad.
 
             Console.WriteLine("Ingrese el total de la cuenta: ");
             double cuenta = double.Parse(Console.ReadLine());

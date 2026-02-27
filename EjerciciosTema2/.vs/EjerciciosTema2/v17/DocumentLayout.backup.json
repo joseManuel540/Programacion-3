@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|solutionrelative:ejerciciostema2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciostema2\\ejerciciostema2\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|solutionrelative:ejerciciostema2\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciostema2\\ejerciciostema2\\ejercicios\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|solutionrelative:ejerciciostema2\\ejercicios\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciostema2\\ejerciciostema2\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|solutionrelative:ejerciciostema2\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87008478-9FCA-411E-8142-ECF72687F692}|EjerciciosTema2\\EjerciciosTema2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciostema2\\ejerciciostema2\\ejercicios\\vehiculoelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,12 +64,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Ejercicios\\Producto.cs",
               "RelativeDocumentMoniker": "EjerciciosTema2\\Ejercicios\\Producto.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Ejercicios\\Producto.cs*",
-              "RelativeToolTip": "EjerciciosTema2\\Ejercicios\\Producto.cs*",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Ejercicios\\Producto.cs",
+              "RelativeToolTip": "EjerciciosTema2\\Ejercicios\\Producto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T22:16:54.026Z",
@@ -90,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Mascota.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Ejercicios\\Mascota.cs",
               "RelativeDocumentMoniker": "EjerciciosTema2\\Ejercicios\\Mascota.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Ejercicios\\Mascota.cs",
               "RelativeToolTip": "EjerciciosTema2\\Ejercicios\\Mascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T21:30:06.178Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "EjerciciosTema2\\Program.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosTema2\\EjerciciosTema2\\Program.cs",
               "RelativeToolTip": "EjerciciosTema2\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwD0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T21:29:46.712Z",
               "EditorCaption": ""

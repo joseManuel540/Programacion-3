@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Simulador de Semáforo Inteligente: Pide al usuario que ingrese el color actual
+//del semáforo (Verde, Amarillo, Rojo). Si es verde, imprime "Sigue adelante";
+//si es amarillo, "Prepárate para frenar"; y si es rojo, "¡Detente!".
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +14,6 @@ namespace EjerciciosProg3.Ejercicios
     {
         public static void Ejecutar()
         {
-            //Simulador de Semáforo Inteligente: Pide al usuario que ingrese el color actual
-            //del semáforo (Verde, Amarillo, Rojo). Si es verde, imprime "Sigue adelante";
-            //si es amarillo, "Prepárate para frenar"; y si es rojo, "¡Detente!".
 
             Console.WriteLine("Ingrese el color acutal del semaforo (verde, amarillo, rojo)");
             String colorSem = Console.ReadLine().ToLower();

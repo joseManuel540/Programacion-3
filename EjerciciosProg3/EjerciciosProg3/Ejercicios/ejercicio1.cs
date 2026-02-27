@@ -1,4 +1,9 @@
-﻿using System;
+﻿///Perfil de Usuario Gamer: Crea un programa que pida al usuario su Nickname, nivel
+///de experiencia (1-100) y si tiene suscripción Premium (booleano). Al final, 
+///muestra un mensaje personalizado que le dé la bienvenida a su nivel 
+///correspondiente.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +15,7 @@ namespace EjerciciosProg3.Ejercicios
     {
         public static void Ejecutar()
         {
-            //Perfil de Usuario Gamer: Crea un programa que pida al usuario su Nickname,
-            //nivel de experiencia (1-100) y si tiene suscripción Premium (booleano). Al
-            //final, muestra un mensaje personalizado que le dé la bienvenida a su nivel
-            //correspondiente.
+           
             Console.WriteLine("Ingrese su nombre: ");
             String nombre = Console.ReadLine();
 
