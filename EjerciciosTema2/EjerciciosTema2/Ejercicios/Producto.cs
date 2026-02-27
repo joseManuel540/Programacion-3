@@ -1,4 +1,8 @@
-﻿using System;
+﻿///Gestión de Inventario de Tienda: Define una clase Producto con nombre, precio y
+///stock. Crea un método que permita "vender" el producto, restando del stock y 
+///mostrando el total de la venta. Si no hay stock, debe avisar al usuario.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

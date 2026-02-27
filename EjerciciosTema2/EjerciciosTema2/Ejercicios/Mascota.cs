@@ -1,4 +1,9 @@
-﻿using System;
+﻿///Sistema de Mascotas Virtuales: Crea una clase base Mascota con un nombre y un 
+///método HacerTruco(). Crea clases derivadas como Loro (que repita una frase) y
+///Gato (que amase pan). Usa una lista para que el usuario elija qué mascota quiere
+///ver actuar.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

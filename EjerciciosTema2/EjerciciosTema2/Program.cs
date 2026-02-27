@@ -52,6 +52,31 @@ namespace EjerciciosTema2
 
             producto1.Vender(cantidad);
 
+            ///EJERCICIO 3
+
+            IReproductor reproductor = null;
+
+            Console.WriteLine("Que desea reproducir");
+            Console.WriteLine("1. Cancion");
+            Console.WriteLine("2. Podcast");
+            int op = int.Parse(Console.ReadLine());
+
+            if (op==1)
+            {
+                Cancion cancion1 = new Cancion();
+                cancion1.Nombre = "Cancion fav";
+                reproductor = cancion1;
+            }
+            else if (op==2)
+            {
+                Podcast podcast1 = new Podcast();
+                podcast1.Nombre = "podcast fav";
+                reproductor = podcast1;
+            }
+
+                reproductor.Play();
+                reproductor.Stop();
+
             ///EJERCICIO 4
             Console.WriteLine("EJERCICIO 4:");
             Libro libro1 = new Libro();

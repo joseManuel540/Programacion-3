@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejercicios\Cancion.cs" />
     <Compile Include="Ejercicios\IReproductor.cs" />
     <Compile Include="Ejercicios\Libro.cs" />
     <Compile Include="Ejercicios\Mascota.cs" />
+    <Compile Include="Ejercicios\Podcast.cs" />
     <Compile Include="Ejercicios\Producto.cs" />
     <Compile Include="Ejercicios\VehiculoElectrico.cs" />
     <Compile Include="Program.cs" />
