@@ -1,7 +1,4 @@
-﻿using System.Security.Cryptography;
-using EjerciciosPOO.Ejercicios;
-
-///. Simulador de Cajero Automático (Clase Cuenta)
+﻿///. Simulador de Cajero Automático (Clase Cuenta)
 //Objetivo: Crear una clase que gestione el dinero de un usuario.
 
 //Clase: CuentaBancaria.
@@ -13,6 +10,9 @@ using EjerciciosPOO.Ejercicios;
 //Interacción: El usuario debe ingresar su nombre al inicio y luego elegir opciones de un menú para
 //depositar o retirar dinero repetidamente.
 
+
+using System.Security.Cryptography;
+using EjerciciosPOO.Ejercicios;
 using System;
 using System.Collections.Generic;
 using System.Linq;

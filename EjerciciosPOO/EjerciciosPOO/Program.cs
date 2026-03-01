@@ -13,7 +13,10 @@ namespace EjerciciosPOO
         {
             //EJERCICIO 1
             CuentaBancaria.Ejectuar();
-
+            //EJERCICIO 2
+            Producto.Ejecutar();
+            //EJERCICIO 3
+            Estudiante.Ejecutar();
 
         }
     }

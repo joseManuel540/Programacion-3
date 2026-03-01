@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo\\ejerciciospoo\\ejercicios\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\ejercicios\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo\\ejerciciospoo\\ejercicios\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\ejercicios\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo\\ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo\\ejerciciospoo\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D5B572-7F5A-4A94-A345-B96CFA0EFA7C}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\ejercicios\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EjerciciosPOO\\Ejercicios\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\Estudiante.cs",
+              "RelativeToolTip": "EjerciciosPOO\\Ejercicios\\Estudiante.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T23:04:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\Producto.cs",
+              "RelativeDocumentMoniker": "EjerciciosPOO\\Ejercicios\\Producto.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\Producto.cs",
+              "RelativeToolTip": "EjerciciosPOO\\Ejercicios\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T22:43:02.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CuentaBancaria.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\CuentaBancaria.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO\\Ejercicios\\CuentaBancaria.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Ejercicios\\CuentaBancaria.cs",
               "RelativeToolTip": "EjerciciosPOO\\Ejercicios\\CuentaBancaria.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAADwv2IAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T12:06:55.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Program.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO\\Program.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO\\EjerciciosPOO\\Program.cs",
               "RelativeToolTip": "EjerciciosPOO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T12:04:22.395Z",
               "EditorCaption": ""
