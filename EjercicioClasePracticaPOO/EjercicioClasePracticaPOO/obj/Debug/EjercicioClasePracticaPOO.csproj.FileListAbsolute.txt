@@ -1,0 +1,7 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\bin\Debug\EjercicioClasePracticaPOO.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\bin\Debug\EjercicioClasePracticaPOO.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\bin\Debug\EjercicioClasePracticaPOO.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\obj\Debug\EjercicioClasePracticaPOO.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\obj\Debug\EjercicioClasePracticaPOO.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\obj\Debug\EjercicioClasePracticaPOO.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjercicioClasePracticaPOO\EjercicioClasePracticaPOO\obj\Debug\EjercicioClasePracticaPOO.pdb
