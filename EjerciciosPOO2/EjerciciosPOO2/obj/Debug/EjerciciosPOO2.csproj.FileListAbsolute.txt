@@ -5,3 +5,4 @@ C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosPOO2\Ejercici
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosPOO2\EjerciciosPOO2\bin\Debug\EjerciciosPOO2.pdb
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosPOO2\EjerciciosPOO2\obj\Debug\EjerciciosPOO2.exe
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosPOO2\EjerciciosPOO2\obj\Debug\EjerciciosPOO2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\EjerciciosPOO2\EjerciciosPOO2\obj\Debug\EjerciciosPOO2.exe.config

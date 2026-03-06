@@ -35,6 +35,7 @@ namespace EjerciciosPOO2.BibliotecaDigital.Modelos
 
         public void GenerarComprobantePrestamo()
         {
+            Console.WriteLine("================== COMRPOBANTE DE PRESTA ==================");
             Console.WriteLine($"Libro '{Titulo}' prestado hasta {CalcularFechaDevolucion()}");
         }
 

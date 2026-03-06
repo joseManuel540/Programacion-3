@@ -15,7 +15,7 @@ namespace EjerciciosPOO2
         {
             List<IPrestable> prestamos = new List<IPrestable>();
 
-            Libro libro = new Libro( 1, "C# Profesional", "Juan Perez", 2023, TipoCategoria.Tecnologia,
+            Libro libro = new Libro( 1, "Calculo", "Julio Profe", 2023, TipoCategoria.Tecnologia,
                 450, "ISBN12345"
             );
 
@@ -24,8 +24,8 @@ namespace EjerciciosPOO2
             );
 
             AudioLibro audioLibro = new AudioLibro(
-                3, "Aprender Programación","Carlos Lopez",2022,TipoCategoria.Tecnologia,
-                TimeSpan.FromHours(10), "Maria Rodriguez"
+                3, "Aprender Programación","Juan",2022,TipoCategoria.Tecnologia,
+                TimeSpan.FromHours(10), "Maria"
             );
 
             prestamos.Add(libro);

@@ -35,7 +35,8 @@ namespace EjerciciosPOO2.BibliotecaDigital.Modelos
 
         public void GenerarComprobantePrestamo()
         {
-            Console.WriteLine($"Revista '{Titulo}' prestada.");
+            Console.WriteLine("================== COMRPOBANTE DE PRESTA ==================");
+            Console.WriteLine($"Revista '{Titulo}' prestado hasta {CalcularFechaDevolucion()}.");
         }
 
         public decimal CalcularMultaPorRetraso(int diasRetraso)
