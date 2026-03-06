@@ -30,7 +30,7 @@ namespace EjerciciosPOO2.Ejercicio1.Modelos
             Categoria = categoria;
         }
 
-        public  void MostrarInformacion()
+        public virtual void MostrarInformacion()
         {
             Console.WriteLine("Id = " + Id);
             Console.WriteLine("Titulo = " + Titulo);

@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Revista.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
-              "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:54:10.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AudioLibro.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\AudioLibro.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\AudioLibro.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\AudioLibro.cs",
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\AudioLibro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T11:53:44.945Z",
               "EditorCaption": ""
@@ -74,14 +65,14 @@
               "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Libro.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Libro.cs",
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T11:53:33.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IPrestable.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Interfaces\\IPrestable.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Interfaces\\IPrestable.cs",
@@ -94,7 +85,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:19:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosPOO2\\Program.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\Program.cs",
+              "RelativeToolTip": "EjerciciosPOO2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:16:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TipoCategoria.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Enums\\TipoCategoria.cs",
               "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Enums\\TipoCategoria.cs",
@@ -107,28 +124,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MaterialBiblioteca.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
-              "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
+              "RelativeDocumentMoniker": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
+              "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:19:14.996Z",
+              "WhenOpened": "2026-03-03T11:54:10.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\Program.cs",
-              "RelativeDocumentMoniker": "EjerciciosPOO2\\Program.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\Program.cs",
-              "RelativeToolTip": "EjerciciosPOO2\\Program.cs",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\App.config",
+              "RelativeDocumentMoniker": "EjerciciosPOO2\\App.config",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\EjerciciosPOO2\\App.config",
+              "RelativeToolTip": "EjerciciosPOO2\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:16:41.78Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-06T00:00:15.596Z",
               "EditorCaption": ""
             }
           ]
