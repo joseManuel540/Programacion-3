@@ -13,7 +13,7 @@ namespace POO2Ejercicio2.Modelos
         public int NumeroPuertas { get; set; }
         public bool TieneAireAcondicionado { get; set; }
 
-        public Auto(int id, string marca, string modelo, int año, double precioBase,
+        public Auto(int id, string marca, string modelo, int año, decimal precioBase,
             TipoCombustible combustible, EstadoVehiculo estadoVehiculo, int numeroPuertas,
             bool tieneAireAcondicionado)
             : base(id, marca, modelo, año, precioBase, combustible, estadoVehiculo)
@@ -49,8 +49,7 @@ namespace POO2Ejercicio2.Modelos
 
         public decimal CalcularComisionVendedor()
         {
-            Console.WriteLine("Comision del vendedor: ");
-            return CalcularPrecioFinal() * 0.1m;
+            return CalcularPrecioFinal() * 0.2m;
         }
     }
 }

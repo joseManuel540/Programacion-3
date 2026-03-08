@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\poo2ejercicio2\\poo2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\poo2ejercicio2\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A49058-5AE6-4F4E-BD5E-8D0B13FFE5B9}|POO2Ejercicio2\\POO2Ejercicio2.csproj|solutionrelative:poo2ejercicio2\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Camion.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Camion.cs",
-              "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Camion.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Camion.cs",
-              "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Camion.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:18:50.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Motocicleta.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Motocicleta.cs",
-              "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Motocicleta.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Motocicleta.cs",
-              "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Motocicleta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:18:40.623Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -78,27 +52,41 @@
               "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Auto.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Auto.cs",
               "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Auto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:18:31.683Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Motocicleta.cs",
+              "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Motocicleta.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:18:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Vehiculo.cs",
               "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Vehiculo.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Vehiculo.cs",
               "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Vehiculo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA2wA0AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:07:46.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IVendible.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Interfaces\\IVendible.cs",
               "RelativeDocumentMoniker": "POO2Ejercicio2\\Interfaces\\IVendible.cs",
@@ -107,19 +95,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:06:39.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EstadoVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
-              "RelativeDocumentMoniker": "POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
-              "RelativeToolTip": "POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:05:53.205Z",
               "EditorCaption": ""
             },
             {
@@ -137,16 +112,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Camion.cs",
+              "RelativeDocumentMoniker": "POO2Ejercicio2\\Modelos\\Camion.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Modelos\\Camion.cs",
+              "RelativeToolTip": "POO2Ejercicio2\\Modelos\\Camion.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:18:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "POO2Ejercicio2\\Program.cs",
               "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Program.cs",
               "RelativeToolTip": "POO2Ejercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAswAkBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T11:50:09.406Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\POO2Ejercicio2\\POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
+              "RelativeToolTip": "POO2Ejercicio2\\Enums\\EstadoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:05:53.205Z"
             }
           ]
         }

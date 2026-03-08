@@ -1,2 +1,7 @@
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\obj\Debug\POO2Ejercicio2.csproj.AssemblyReference.cache
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\obj\Debug\POO2Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\bin\Debug\POO2Ejercicio2.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\bin\Debug\POO2Ejercicio2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\bin\Debug\POO2Ejercicio2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\obj\Debug\POO2Ejercicio2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\POO2Ejercicio2\POO2Ejercicio2\obj\Debug\POO2Ejercicio2.pdb

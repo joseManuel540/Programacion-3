@@ -10,38 +10,45 @@ namespace POO2Ejercicio2.Modelos
 {
     public class Camion : Vehiculo, IVendible
     {
-        public int Cilindraje { get; set; }
-        public bool EsDeportiva { get; set; }
+        public decimal CapacidadCarga { get; set; }
+        public int NumeroEjes { get; set; }
 
-        public Camion(int id, string marca, string modelo, int año, double precioBase,
-            TipoCombustible combustible, EstadoVehiculo estadoVehiculo, int cilindraje,
-            bool esDeportiva)
+        public Camion(int id, string marca, string modelo, int año, decimal precioBase,
+            TipoCombustible combustible, EstadoVehiculo estadoVehiculo, decimal capacidadCarga,
+            int numeroEjes)
             : base(id, marca, modelo, año, precioBase, combustible, estadoVehiculo)
         {
-            Cilindraje = cilindraje;
-            EsDeportiva = esDeportiva;
+            CapacidadCarga = capacidadCarga;
+            NumeroEjes = numeroEjes;
         }
 
         public override void MostrarEspecificaciones()
         {
             base.MostrarEspecificaciones();
-            Console.WriteLine($"Numero de puertas: {NumeroPuertas}");
-            Console.WriteLine($"Tiene Aire Acondicionado: {TieneAireAcondicionado}");
-            Console.WriteLine("Tipo: Auto");
+            Console.WriteLine($"Capacidad de carga: {CapacidadCarga}");
+            Console.WriteLine($"Numero Ejes: {NumeroEjes}");
+            Console.WriteLine("Tipo: Camion");
         }
         public decimal CalcularComisionVendedor()
         {
-            throw new NotImplementedException();
+            return CalcularPrecioFinal() * 0.3m;
         }
 
         public decimal CalcularPrecioFinal()
         {
-            throw new NotImplementedException();
+            return PrecioBase + (CapacidadCarga * 500);
         }
 
         public void GenerarFacturaVenta()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("=== FACTURA DE VENTA - CAMION ===");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Capacidad Carga: {CapacidadCarga}");
+            Console.WriteLine($"Numero Ejes: {NumeroEjes}");
+            Console.WriteLine($"Precio Base: {PrecioBase}");
+            Console.WriteLine($"Precio Final: {CalcularPrecioFinal()}");
+            Console.WriteLine("===========================================");
         }
     }
 }

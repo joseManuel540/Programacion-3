@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\ejerciciospoo2\\ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\EjerciciosPOO2\\ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7214CE4E-1074-4BAD-9302-089C38565E46}|EjerciciosPOO2\\EjerciciosPOO2.csproj|solutionrelative:ejerciciospoo2\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Libro.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:53:33.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:53:33.137Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Interfaces\\IPrestable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:23:14.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:23:14.314Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wCYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:19:14.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:19:14.996Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:16:41.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:16:41.78Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Modelos\\Revista.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAowCEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:54:10.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:54:10.893Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "EjerciciosPOO2\\BibliotecaDigital\\Enums\\TipoCategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:21:53.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:21:53.235Z"
             },
             {
               "$type": "Document",

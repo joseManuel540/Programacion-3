@@ -17,7 +17,7 @@ namespace POO2Ejercicio2.Modelos
         public TipoCombustible Combustible { get; set; }
         public EstadoVehiculo EstadoVehiculo { get; set; }
 
-        protected Vehiculo(int id, string marca, string modelo, int año, double precioBase, 
+        protected Vehiculo(int id, string marca, string modelo, int año, decimal precioBase, 
             TipoCombustible combustible, EstadoVehiculo estadoVehiculo)
         {
             Id = id;
