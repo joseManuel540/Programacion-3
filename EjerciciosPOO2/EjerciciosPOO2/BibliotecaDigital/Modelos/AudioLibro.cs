@@ -28,7 +28,7 @@ namespace biblioteca.Modelos
 
         public DateTime CalcularFechaDevolucion()
         {
-            return DateTime.Now.AddDays(21); // 21 días para audiolibros
+            return DateTime.Now.AddDays(21);
         }
 
         public void GenerarComprobantePrestamo()
