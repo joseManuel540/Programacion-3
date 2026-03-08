@@ -1,47 +1,51 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using EjerciciosPOO2.BibliotecaDigital.Enums;
 using EjerciciosPOO2.BibliotecaDigital.Interfaces;
 using EjerciciosPOO2.Ejercicio1.Modelos;
 
-namespace EjerciciosPOO2.BibliotecaDigital.Modelos
+namespace biblioteca.Modelos
 {
-    internal class Revista : MaterialBiblioteca, IPrestable
+    public class Revista : MaterialBiblioteca, IPrestable
     {
         public int NumeroEdicion { get; set; }
         public string Periodicidad { get; set; }
 
-        public Revista(int id, string titulo, string autor, int año, TipoCategoria categoria, 
-            int edicion, string periodicidad) : base(id, titulo, autor, año, categoria)
+        public Revista(int id, string titulo, string autor, int añoPublicacion, TipoCategoria categoria,
+                       int numeroEdicion, string periodicidad)
+            : base(id, titulo, autor, añoPublicacion, categoria)
         {
-            NumeroEdicion = edicion;
+            NumeroEdicion = numeroEdicion;
             Periodicidad = periodicidad;
         }
 
         public override void MostrarInformacion()
         {
             base.MostrarInformacion();
-            Console.WriteLine("Edicion: "+ NumeroEdicion);
-            Console.WriteLine("Periodicidad: " + Periodicidad);
+            Console.WriteLine($"Número de Edición: {NumeroEdicion}");
+            Console.WriteLine($"Periodicidad: {Periodicidad}");
+            Console.WriteLine("Tipo: Revista");
         }
 
         public DateTime CalcularFechaDevolucion()
         {
-            return DateTime.Now.AddDays(5);
+            return DateTime.Now.AddDays(7); // 7 días para revistas
         }
 
         public void GenerarComprobantePrestamo()
         {
-            Console.WriteLine("================== COMRPOBANTE DE PRESTA ==================");
-            Console.WriteLine($"Revista '{Titulo}' prestado hasta {CalcularFechaDevolucion()}.");
+            Console.WriteLine("=== COMPROBANTE DE PRÉSTAMO - REVISTA ===");
+            Console.WriteLine($"Revista: {Titulo}");
+            Console.WriteLine($"Autor: {Autor}");
+            Console.WriteLine($"Edición: {NumeroEdicion}");
+            Console.WriteLine($"Periodicidad: {Periodicidad}");
+            Console.WriteLine($"Fecha de Préstamo: {DateTime.Now:dd/MM/yyyy}");
+            Console.WriteLine($"Fecha de Devolución: {CalcularFechaDevolucion():dd/MM/yyyy}");
+            Console.WriteLine("=========================================");
         }
 
         public decimal CalcularMultaPorRetraso(int diasRetraso)
         {
-            return diasRetraso * 500;
+            return diasRetraso * 0.30m; // $0.30 por día de retraso
         }
     }
 }

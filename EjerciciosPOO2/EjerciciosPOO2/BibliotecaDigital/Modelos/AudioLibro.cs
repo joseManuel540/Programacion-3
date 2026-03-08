@@ -1,22 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using EjerciciosPOO2.BibliotecaDigital.Enums;
 using EjerciciosPOO2.BibliotecaDigital.Interfaces;
 using EjerciciosPOO2.Ejercicio1.Modelos;
 
-namespace EjerciciosPOO2.BibliotecaDigital.Modelos
+namespace biblioteca.Modelos
 {
-    internal class AudioLibro : MaterialBiblioteca, IPrestable
+    public class AudioLibro : MaterialBiblioteca, IPrestable
     {
         public TimeSpan Duracion { get; set; }
         public string Narrador { get; set; }
 
-        public AudioLibro(int id, string titulo, string autor, int año,
-                          TipoCategoria categoria, TimeSpan duracion, string narrador)
-            : base(id, titulo, autor, año, categoria)
+        public AudioLibro(int id, string titulo, string autor, int añoPublicacion, TipoCategoria categoria,
+                          TimeSpan duracion, string narrador)
+            : base(id, titulo, autor, añoPublicacion, categoria)
         {
             Duracion = duracion;
             Narrador = narrador;
@@ -25,24 +21,31 @@ namespace EjerciciosPOO2.BibliotecaDigital.Modelos
         public override void MostrarInformacion()
         {
             base.MostrarInformacion();
-            Console.WriteLine($"Duración: {Duracion}");
+            Console.WriteLine($"Duración: {Duracion.Hours:D2}:{Duracion.Minutes:D2}:{Duracion.Seconds:D2}");
             Console.WriteLine($"Narrador: {Narrador}");
+            Console.WriteLine("Tipo: AudioLibro");
         }
 
         public DateTime CalcularFechaDevolucion()
         {
-            return DateTime.Now.AddDays(4);
+            return DateTime.Now.AddDays(21); // 21 días para audiolibros
         }
 
         public void GenerarComprobantePrestamo()
         {
-            Console.WriteLine("================== COMRPOBANTE DE PRESTA ==================");
-            Console.WriteLine($"Audiolibro '{Titulo}' prestado hasta {CalcularFechaDevolucion()}");
+            Console.WriteLine("=== COMPROBANTE DE PRÉSTAMO - AUDIOLIBRO ===");
+            Console.WriteLine($"AudioLibro: {Titulo}");
+            Console.WriteLine($"Autor: {Autor}");
+            Console.WriteLine($"Narrador: {Narrador}");
+            Console.WriteLine($"Duración: {Duracion.Hours:D2}:{Duracion.Minutes:D2}:{Duracion.Seconds:D2}");
+            Console.WriteLine($"Fecha de Préstamo: {DateTime.Now:dd/MM/yyyy}");
+            Console.WriteLine($"Fecha de Devolución: {CalcularFechaDevolucion():dd/MM/yyyy}");
+            Console.WriteLine("===========================================");
         }
 
         public decimal CalcularMultaPorRetraso(int diasRetraso)
         {
-            return diasRetraso * 800;
+            return diasRetraso * 0.75m; // $0.75 por día de retraso
         }
     }
 }
