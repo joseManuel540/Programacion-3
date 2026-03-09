@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*EJERCICIO 1: Sistema de Biblioteca Digital
+📖 Descripción del Problema
+Crear un sistema para gestionar una biblioteca digital que maneja diferentes tipos de 
+materiales: Libros, Revistas y AudioLibros. Cada material tiene información común pero también
+características específicas.*/
+
+using System;
 using System.Collections.Generic;
 using biblioteca.Modelos;
 using EjerciciosPOO2.BibliotecaDigital.Enums;
