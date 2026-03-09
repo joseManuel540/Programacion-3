@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*EJERCICIO 2: Sistema de Concesionario de Vehículos
+📖 Descripción del Problema
+Desarrollar un sistema para un concesionario que vende Autos, Motocicletas y Camiones. Cada 
+vehículo tiene características comunes pero precios y comisiones diferentes.*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
