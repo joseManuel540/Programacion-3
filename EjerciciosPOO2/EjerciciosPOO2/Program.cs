@@ -2,7 +2,20 @@
 📖 Descripción del Problema
 Crear un sistema para gestionar una biblioteca digital que maneja diferentes tipos de 
 materiales: Libros, Revistas y AudioLibros. Cada material tiene información común pero también
-características específicas.*/
+características específicas.
+
+  Estructura de Carpetas Requerida
+BibliotecaDigital\
+├── Enums\
+│   └── TipoCategoria.cs        ← Ficcion, NoFiccion, Ciencia, Historia
+├── Interfaces\
+│   └── IPrestable.cs           ← ContratoPréstamo
+├── Modelos\
+│   ├── MaterialBiblioteca.cs   ← Clase abstracta base
+│   ├── Libro.cs                ← Hereda de MaterialBiblioteca
+│   ├── Revista.cs              ← Hereda de MaterialBiblioteca
+│   └── AudioLibro.cs           ← Hereda de MaterialBiblioteca
+└── Program.cs*/
 
 using System;
 using System.Collections.Generic;
