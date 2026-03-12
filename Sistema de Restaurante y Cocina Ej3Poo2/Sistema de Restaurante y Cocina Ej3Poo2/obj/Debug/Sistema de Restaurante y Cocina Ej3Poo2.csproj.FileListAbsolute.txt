@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\bin\Debug\Sistema de Restaurante y Cocina Ej3Poo2.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\bin\Debug\Sistema de Restaurante y Cocina Ej3Poo2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\bin\Debug\Sistema de Restaurante y Cocina Ej3Poo2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\obj\Debug\Sistema de Restaurante y Cocina Ej3Poo2.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\obj\Debug\Sistema de Restaurante y Cocina Ej3Poo2.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\obj\Debug\Sistema de Restaurante y Cocina Ej3Poo2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\obj\Debug\Sistema de Restaurante y Cocina Ej3Poo2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Sistema de Restaurante y Cocina Ej3Poo2\Sistema de Restaurante y Cocina Ej3Poo2\obj\Debug\Sistema de Restaurante y Cocina Ej3Poo2.exe.config
