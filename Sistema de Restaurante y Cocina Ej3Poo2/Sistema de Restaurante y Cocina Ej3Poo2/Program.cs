@@ -259,19 +259,7 @@ namespace Sistema_de_Restaurante_y_Cocina_Ej3Poo2
 
                 Console.WriteLine("\n");
                 platoSeleccionado.GenerarOrdenCocina();
-
-                // Simular cálculo de multa por retraso
-                //Console.Write("\n¿Desea simular días de retraso? (0 para no): ");
-                //if (int.TryParse(Console.ReadLine(), out int diasRetraso) && diasRetraso > 0)
-                //{
-                //    decimal multa = materialSeleccionado.CalcularMultaPorRetraso(diasRetraso);
-                //    Console.WriteLine($"Multa por {diasRetraso} días de retraso: ${multa:F2}");
-                //}
             }
-            //else
-            //{
-            //    Console.WriteLine("Selección inválida.");
-            //}
         }
 
         private static void InicializarMaterialesEjemplo()
