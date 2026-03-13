@@ -28,7 +28,7 @@ namespace reto1
                 TimeSpan faltan = cumpleaños - fechaActual;
                 Console.WriteLine($"A {n1} le faltan {faltan.Days} días para su cumpleaños.");
 
-                File.AppendAllText(ruta, $"{n1} - {f1}");
+                File.AppendAllText(ruta, $"{n1} - {f1} {Environment.NewLine}");
 
             }
             string contenido = File.ReadAllText(ruta);
