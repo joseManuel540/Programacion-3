@@ -1,0 +1,7 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\bin\Debug\Diario Personal con Bitácora archivoEj1.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\bin\Debug\Diario Personal con Bitácora archivoEj1.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\bin\Debug\Diario Personal con Bitácora archivoEj1.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\obj\Debug\Diario Personal con Bitácora archivoEj1.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\obj\Debug\Diario Personal con Bitácora archivoEj1.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\obj\Debug\Diario Personal con Bitácora archivoEj1.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Diario Personal con Bitácora archivoEj1\Diario Personal con Bitácora archivoEj1\obj\Debug\Diario Personal con Bitácora archivoEj1.pdb
