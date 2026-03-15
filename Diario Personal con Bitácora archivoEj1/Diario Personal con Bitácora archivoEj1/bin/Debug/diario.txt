@@ -1,0 +1,4 @@
+[14/03/2026 8:11:24 p. m.] - jose: comer 
+[14/03/2026 8:12:09 p. m.] - juan: dormir 
+[14/03/2026 8:12:53 p. m.] - sebastian: hacer tarea 
+[14/03/2026 8:13:22 p. m.] - pedro: salir 

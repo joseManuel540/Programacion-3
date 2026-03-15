@@ -24,15 +24,28 @@ namespace Diario_Personal_con_Bitácora_archivoEj1
     {
         static void Main(string[] args)
         {
+
+
+            DateTime fecha = DateTime.Now;
             string ruta = "diario.txt";
+
+            if (File.Exists(ruta))
+            {
+                Console.WriteLine("\nÚltimas entradas del diario:");
+
+                string[] lineas = File.ReadAllLines(ruta);
+
+                foreach (string linea in lineas.Take(3))
+                {
+                    Console.WriteLine(linea);
+                }
+            }
             Console.WriteLine("Ingrese su nombre: ");
             string nombre = Console.ReadLine();
             Console.WriteLine("Escriba un pensamiento o actividad de su dia: ");
             string pensamiento = Console.ReadLine();
-            File.WriteAllText(ruta, pensamiento);
+            File.AppendAllText(ruta, $"[{fecha}] - {nombre}: {pensamiento} {Environment.NewLine}");
 
-            string contenido = File.ReadAllText(ruta);
-            Console.WriteLine(contenido);
         }
     }
 }
