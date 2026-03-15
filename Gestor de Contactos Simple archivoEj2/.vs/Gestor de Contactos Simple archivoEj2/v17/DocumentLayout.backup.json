@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Gestor de Contactos Simple archivoEj2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8C20CE-0918-4D02-93D5-1C943DC9823E}|Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\gestor de contactos simple archivoej2\\gestor de contactos simple archivoej2\\clases\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8C20CE-0918-4D02-93D5-1C943DC9823E}|Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2.csproj|solutionrelative:gestor de contactos simple archivoej2\\clases\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8C20CE-0918-4D02-93D5-1C943DC9823E}|Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\gestor de contactos simple archivoej2\\gestor de contactos simple archivoej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8C20CE-0918-4D02-93D5-1C943DC9823E}|Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2.csproj|solutionrelative:gestor de contactos simple archivoej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2\\Clases\\Contacto.cs",
+              "RelativeDocumentMoniker": "Gestor de Contactos Simple archivoEj2\\Clases\\Contacto.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2\\Clases\\Contacto.cs",
+              "RelativeToolTip": "Gestor de Contactos Simple archivoEj2\\Clases\\Contacto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:20:20.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2\\Program.cs",
+              "RelativeDocumentMoniker": "Gestor de Contactos Simple archivoEj2\\Program.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Gestor de Contactos Simple archivoEj2\\Gestor de Contactos Simple archivoEj2\\Program.cs",
+              "RelativeToolTip": "Gestor de Contactos Simple archivoEj2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T01:16:14.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\bin\Debug\Gestor de Contactos Simple archivoEj2.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\bin\Debug\Gestor de Contactos Simple archivoEj2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\bin\Debug\Gestor de Contactos Simple archivoEj2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\obj\Debug\Gestor de Contactos Simple archivoEj2.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\obj\Debug\Gestor de Contactos Simple archivoEj2.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\obj\Debug\Gestor de Contactos Simple archivoEj2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Gestor de Contactos Simple archivoEj2\Gestor de Contactos Simple archivoEj2\obj\Debug\Gestor de Contactos Simple archivoEj2.pdb
