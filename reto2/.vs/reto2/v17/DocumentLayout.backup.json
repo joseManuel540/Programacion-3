@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\reto2\\reto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|solutionrelative:reto2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\reto2\\reto2\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|solutionrelative:reto2\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\reto2\\reto2\\enums\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F565A99-BECA-4ECD-A4DA-2DFD6254661B}|reto2\\reto2.csproj|solutionrelative:reto2\\enums\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Enums\\Tipo.cs",
+              "RelativeDocumentMoniker": "reto2\\Enums\\Tipo.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Enums\\Tipo.cs",
+              "RelativeToolTip": "reto2\\Enums\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:31:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Modelos\\Paquete.cs",
+              "RelativeDocumentMoniker": "reto2\\Modelos\\Paquete.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Modelos\\Paquete.cs",
+              "RelativeToolTip": "reto2\\Modelos\\Paquete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:29:12.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Program.cs",
+              "RelativeDocumentMoniker": "reto2\\Program.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\reto2\\reto2\\Program.cs",
+              "RelativeToolTip": "reto2\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwIgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:27:11.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
