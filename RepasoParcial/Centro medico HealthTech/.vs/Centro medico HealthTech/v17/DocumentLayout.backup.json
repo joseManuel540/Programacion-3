@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\repasoparcial\\centro medico healthtech\\centro medico healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|solutionrelative:centro medico healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\repasoparcial\\centro medico healthtech\\centro medico healthtech\\interfaces\\iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|solutionrelative:centro medico healthtech\\interfaces\\iprioritario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\repasoparcial\\centro medico healthtech\\centro medico healthtech\\enums\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|solutionrelative:centro medico healthtech\\enums\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\repasoparcial\\centro medico healthtech\\centro medico healthtech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE5B46-0FFE-4F89-9827-E31E7B778F76}|Centro medico HealthTech\\Centro medico HealthTech.csproj|solutionrelative:centro medico healthtech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Enums\\Especialidad.cs",
+              "RelativeDocumentMoniker": "Centro medico HealthTech\\Enums\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Enums\\Especialidad.cs",
+              "RelativeToolTip": "Centro medico HealthTech\\Enums\\Especialidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:52:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Modelos\\CitaMedica.cs",
+              "RelativeDocumentMoniker": "Centro medico HealthTech\\Modelos\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Modelos\\CitaMedica.cs",
+              "RelativeToolTip": "Centro medico HealthTech\\Modelos\\CitaMedica.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:52:16.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrioritario.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Interfaces\\IPrioritario.cs",
+              "RelativeDocumentMoniker": "Centro medico HealthTech\\Interfaces\\IPrioritario.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Interfaces\\IPrioritario.cs",
+              "RelativeToolTip": "Centro medico HealthTech\\Interfaces\\IPrioritario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:51:54.499Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Program.cs",
               "RelativeDocumentMoniker": "Centro medico HealthTech\\Program.cs",
-              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Program.cs",
-              "RelativeToolTip": "Centro medico HealthTech\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\RepasoParcial\\Centro medico HealthTech\\Centro medico HealthTech\\Program.cs*",
+              "RelativeToolTip": "Centro medico HealthTech\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T13:35:01.079Z",
               "EditorCaption": ""
