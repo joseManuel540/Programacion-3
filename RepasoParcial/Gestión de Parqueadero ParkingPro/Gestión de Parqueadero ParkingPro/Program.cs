@@ -27,10 +27,8 @@ namespace Gestión_de_Parqueadero_ParkingPro
         private static List<ICobrable> Vehiculos = new List<ICobrable>();
         static void Main(string[] args)
         {
-            Console.WriteLine("=== SISTEMA DE RESTAURANTE Y COCINA ===");
+            Console.WriteLine("=== GESTION DE PARQUEADERO ===");
 
-            // Agregar algunos materiales de ejemplo
-            InicializarMaterialesEjemplo();
 
             int opcion;
             do
@@ -51,19 +49,18 @@ namespace Gestión_de_Parqueadero_ParkingPro
                 Console.ReadKey();
                 Console.Clear();
 
-            } while (opcion != 6);
+            } while (opcion != 0);
         }
-    }
 
-    private static void MostrarMenu()
+
+        private static void MostrarMenu()
         {
             Console.WriteLine("\n=== MENÚ PRINCIPAL ===");
-            Console.WriteLine("1. Agregar nueva entrada");
-            Console.WriteLine("2. Agregar nuevo plato principal");
-            Console.WriteLine("3. Agregar nuevo postre");
-            Console.WriteLine("4. Mostrar todos los platos");
-            Console.WriteLine("5. Pedir plato");
-            Console.WriteLine("6. Salir");
+            Console.WriteLine("1. Agregar nuevo carro");
+            Console.WriteLine("2. Agregar nueva moto");
+            Console.WriteLine("3. Consultar por placa");
+            Console.WriteLine("4. Ver todos");
+            Console.WriteLine("0. Salir");
             Console.WriteLine("=====================");
         }
 
@@ -72,22 +69,19 @@ namespace Gestión_de_Parqueadero_ParkingPro
             switch (opcion)
             {
                 case 1:
-                    AgregarEntrada();
+                    AgregarCarro();
                     break;
                 case 2:
-                    AgregarPlatoPrincipal();
+                    AgregarMoto();
                     break;
                 case 3:
-                    AgregarPostre();
+                    ConsultarPlaca();
                     break;
                 case 4:
-                    MostrarTodosMateriales();
+                    MostrarTodosVehiculos();
                     break;
-                case 5:
-                    ProcesarOrden();
-                    break;
-                case 6:
-                    Console.WriteLine("¡Gracias por usar el Sistema de restaurante y cocina!");
+                case 0:
+                    Console.WriteLine("¡Gracias por usar el Sistema de gestion de parqueadero");
                     break;
                 default:
                     Console.WriteLine("Opción inválida.");
@@ -151,28 +145,30 @@ namespace Gestión_de_Parqueadero_ParkingPro
             }
         }
 
-        private static void ProcesarOrden()
+        private static void ConsultarPlaca()
         {
-            Console.WriteLine("\n=== PROCESAR PRÉSTAMO ===");
+            Console.WriteLine("Ingrese la placa a buscar: ");
+            string buscar = Console.ReadLine();
 
-            if (Platos.Count == 0)
+            if (Vehiculos.Count == 0)
             {
-                Console.WriteLine("No hay materiales disponibles para préstamo.");
+                Console.WriteLine("No hay vehiculos disponibles.");
                 return;
             }
 
-            MostrarTodosMateriales();
-
-            Console.Write("\nSeleccione el número del plato a pedir ");
-            if (int.TryParse(Console.ReadLine(), out int seleccion) &&
-                seleccion >= 1 && seleccion <= Platos.Count)
+            foreach (var item in Vehiculos)
             {
-                var platoSeleccionado = Platos[seleccion - 1];
-
-                Console.WriteLine("\n");
-                platoSeleccionado.GenerarOrdenCocina();
+                if (item is Vehiculo v)
+                {
+                    if (v.Placa.Equals(buscar))
+                    {
+                        Console.WriteLine("Se encontro el vehiculo: ");
+                        v.MostrarInformacion();
+                    }
+                }
             }
         }
 
 
     }
+}
