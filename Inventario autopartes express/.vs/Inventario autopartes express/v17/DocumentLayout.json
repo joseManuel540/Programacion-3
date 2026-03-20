@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\inventario autopartes express\\inventario autopartes express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|solutionrelative:inventario autopartes express\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\inventario autopartes express\\inventario autopartes express\\modelos\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|solutionrelative:inventario autopartes express\\modelos\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\inventario autopartes express\\inventario autopartes express\\interfaces\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|solutionrelative:inventario autopartes express\\interfaces\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\inventario autopartes express\\inventario autopartes express\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D9B86F-50A2-472F-B7ED-074B31FB6729}|Inventario autopartes express\\Inventario autopartes express.csproj|solutionrelative:inventario autopartes express\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGestionable.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Interfaces\\IGestionable.cs",
+              "RelativeDocumentMoniker": "Inventario autopartes express\\Interfaces\\IGestionable.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Interfaces\\IGestionable.cs",
+              "RelativeToolTip": "Inventario autopartes express\\Interfaces\\IGestionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:39:16.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Enums\\Categoria.cs",
+              "RelativeDocumentMoniker": "Inventario autopartes express\\Enums\\Categoria.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Enums\\Categoria.cs",
+              "RelativeToolTip": "Inventario autopartes express\\Enums\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:38:32.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Modelos\\Repuesto.cs",
+              "RelativeDocumentMoniker": "Inventario autopartes express\\Modelos\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Modelos\\Repuesto.cs",
+              "RelativeToolTip": "Inventario autopartes express\\Modelos\\Repuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:38:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario autopartes express\\Program.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\Inventario autopartes express\\Inventario autopartes express\\Program.cs",
+              "RelativeToolTip": "Inventario autopartes express\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T11:37:30.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

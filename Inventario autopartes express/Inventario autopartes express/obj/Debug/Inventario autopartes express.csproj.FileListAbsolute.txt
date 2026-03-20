@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\bin\Debug\Inventario autopartes express.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\bin\Debug\Inventario autopartes express.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\bin\Debug\Inventario autopartes express.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\obj\Debug\Inventario autopartes express.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\obj\Debug\Inventario autopartes express.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\obj\Debug\Inventario autopartes express.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\obj\Debug\Inventario autopartes express.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Inventario autopartes express\Inventario autopartes express\obj\Debug\Inventario autopartes express.exe.config
