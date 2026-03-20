@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\bin\Debug\ParcialEjercicio2.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\bin\Debug\ParcialEjercicio2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\bin\Debug\ParcialEjercicio2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\obj\Debug\ParcialEjercicio2.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\obj\Debug\ParcialEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\obj\Debug\ParcialEjercicio2.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\obj\Debug\ParcialEjercicio2.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\ParcialEjercicio2\ParcialEjercicio2\obj\Debug\ParcialEjercicio2.exe.config
