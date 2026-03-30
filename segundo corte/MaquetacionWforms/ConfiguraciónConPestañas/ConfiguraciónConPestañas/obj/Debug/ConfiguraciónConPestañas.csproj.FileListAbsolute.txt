@@ -8,3 +8,4 @@ C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\Maquetaci
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.csproj.CoreCompileInputs.cache
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.exe
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.exe.config
