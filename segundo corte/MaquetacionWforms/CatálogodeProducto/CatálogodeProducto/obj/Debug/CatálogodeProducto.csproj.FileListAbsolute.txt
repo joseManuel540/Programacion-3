@@ -1,0 +1,10 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\bin\Debug\CatálogodeProducto.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\bin\Debug\CatálogodeProducto.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\bin\Debug\CatálogodeProducto.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\CatálogodeProducto\CatálogodeProducto\obj\Debug\CatálogodeProducto.pdb
