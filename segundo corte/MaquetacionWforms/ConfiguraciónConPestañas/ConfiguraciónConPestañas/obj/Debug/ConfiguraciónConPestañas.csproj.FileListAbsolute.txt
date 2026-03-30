@@ -1,0 +1,10 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\bin\Debug\ConfiguraciónConPestañas.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\bin\Debug\ConfiguraciónConPestañas.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\bin\Debug\ConfiguraciónConPestañas.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\ConfiguraciónConPestañas\ConfiguraciónConPestañas\obj\Debug\ConfiguraciónConPestañas.pdb
