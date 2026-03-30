@@ -1,7 +1,0 @@
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\bin\Debug\Creador de Estructura de Proyectos archivoEj3.exe.config
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\bin\Debug\Creador de Estructura de Proyectos archivoEj3.exe
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\bin\Debug\Creador de Estructura de Proyectos archivoEj3.pdb
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\obj\Debug\Creador de Estructura de Proyectos archivoEj3.csproj.AssemblyReference.cache
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\obj\Debug\Creador de Estructura de Proyectos archivoEj3.csproj.CoreCompileInputs.cache
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\obj\Debug\Creador de Estructura de Proyectos archivoEj3.exe
-C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\Creador de Estructura de Proyectos archivoEj3\Creador de Estructura de Proyectos archivoEj3\obj\Debug\Creador de Estructura de Proyectos archivoEj3.pdb
