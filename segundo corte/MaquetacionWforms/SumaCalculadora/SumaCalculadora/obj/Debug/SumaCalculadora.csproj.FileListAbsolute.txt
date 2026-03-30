@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\bin\Debug\SumaCalculadora.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\bin\Debug\SumaCalculadora.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\bin\Debug\SumaCalculadora.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\MaquetacionWforms\SumaCalculadora\SumaCalculadora\obj\Debug\SumaCalculadora.exe.config
