@@ -36,8 +36,8 @@
             this.lblvalidadCorreo = new System.Windows.Forms.Label();
             this.lblcorreo = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbMasculino = new System.Windows.Forms.RadioButton();
             this.rbFemenino = new System.Windows.Forms.RadioButton();
+            this.rbMasculino = new System.Windows.Forms.RadioButton();
             this.txtNombres = new System.Windows.Forms.TextBox();
             this.lbl5 = new System.Windows.Forms.Label();
             this.lblRegistroExitoso = new System.Windows.Forms.Label();
@@ -97,6 +97,7 @@
             this.lblvalidadCorreo.Size = new System.Drawing.Size(51, 20);
             this.lblvalidadCorreo.TabIndex = 6;
             this.lblvalidadCorreo.Text = "label3";
+            this.lblvalidadCorreo.Visible = false;
             // 
             // lblcorreo
             // 
@@ -107,6 +108,8 @@
             this.lblcorreo.Size = new System.Drawing.Size(51, 20);
             this.lblcorreo.TabIndex = 7;
             this.lblcorreo.Text = "label4";
+            this.lblcorreo.Visible = false;
+            this.lblcorreo.Click += new System.EventHandler(this.lblcorreo_Click);
             // 
             // groupBox1
             // 
@@ -119,17 +122,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Genero";
             // 
-            // rbMasculino
-            // 
-            this.rbMasculino.AutoSize = true;
-            this.rbMasculino.Location = new System.Drawing.Point(6, 25);
-            this.rbMasculino.Name = "rbMasculino";
-            this.rbMasculino.Size = new System.Drawing.Size(105, 24);
-            this.rbMasculino.TabIndex = 0;
-            this.rbMasculino.TabStop = true;
-            this.rbMasculino.Text = "Masculino";
-            this.rbMasculino.UseVisualStyleBackColor = true;
-            // 
             // rbFemenino
             // 
             this.rbFemenino.AutoSize = true;
@@ -140,6 +132,17 @@
             this.rbFemenino.TabStop = true;
             this.rbFemenino.Text = "Femenino";
             this.rbFemenino.UseVisualStyleBackColor = true;
+            // 
+            // rbMasculino
+            // 
+            this.rbMasculino.AutoSize = true;
+            this.rbMasculino.Location = new System.Drawing.Point(6, 25);
+            this.rbMasculino.Name = "rbMasculino";
+            this.rbMasculino.Size = new System.Drawing.Size(105, 24);
+            this.rbMasculino.TabIndex = 0;
+            this.rbMasculino.TabStop = true;
+            this.rbMasculino.Text = "Masculino";
+            this.rbMasculino.UseVisualStyleBackColor = true;
             // 
             // txtNombres
             // 
@@ -167,6 +170,7 @@
             this.lblRegistroExitoso.Size = new System.Drawing.Size(51, 20);
             this.lblRegistroExitoso.TabIndex = 11;
             this.lblRegistroExitoso.Text = "label3";
+            this.lblRegistroExitoso.Visible = false;
             // 
             // lblNombres
             // 
@@ -177,6 +181,7 @@
             this.lblNombres.Size = new System.Drawing.Size(51, 20);
             this.lblNombres.TabIndex = 12;
             this.lblNombres.Text = "label3";
+            this.lblNombres.Visible = false;
             // 
             // lblMasculino
             // 
@@ -187,6 +192,7 @@
             this.lblMasculino.Size = new System.Drawing.Size(51, 20);
             this.lblMasculino.TabIndex = 13;
             this.lblMasculino.Text = "label3";
+            this.lblMasculino.Visible = false;
             // 
             // Form1
             // 

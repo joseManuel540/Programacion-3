@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\bin\Debug\validadoRegistro.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\bin\Debug\validadoRegistro.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\bin\Debug\validadoRegistro.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\validadoRegistro\validadoRegistro\obj\Debug\validadoRegistro.exe.config
