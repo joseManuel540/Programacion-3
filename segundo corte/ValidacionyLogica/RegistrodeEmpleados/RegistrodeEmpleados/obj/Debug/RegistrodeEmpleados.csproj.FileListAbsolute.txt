@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\bin\Debug\RegistrodeEmpleados.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\bin\Debug\RegistrodeEmpleados.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\bin\Debug\RegistrodeEmpleados.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\RegistrodeEmpleados\RegistrodeEmpleados\obj\Debug\RegistrodeEmpleados.exe.config
