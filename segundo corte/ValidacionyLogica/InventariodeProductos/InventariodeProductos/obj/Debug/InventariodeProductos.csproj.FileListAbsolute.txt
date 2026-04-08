@@ -1,0 +1,10 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\bin\Debug\InventariodeProductos.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\bin\Debug\InventariodeProductos.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\bin\Debug\InventariodeProductos.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.pdb
