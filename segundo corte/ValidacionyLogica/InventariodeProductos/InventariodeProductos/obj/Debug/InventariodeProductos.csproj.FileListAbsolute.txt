@@ -8,3 +8,4 @@ C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\Validacio
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.csproj.CoreCompileInputs.cache
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.exe
 C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\InventariodeProductos\InventariodeProductos\obj\Debug\InventariodeProductos.exe.config
