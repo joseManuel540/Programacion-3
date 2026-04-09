@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\bin\Debug\ReservaHotel.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\bin\Debug\ReservaHotel.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\bin\Debug\ReservaHotel.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionyLogica\ReservaHotel\ReservaHotel\obj\Debug\ReservaHotel.exe.config
