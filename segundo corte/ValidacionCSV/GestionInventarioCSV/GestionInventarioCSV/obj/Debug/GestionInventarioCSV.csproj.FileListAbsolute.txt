@@ -1,0 +1,10 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\bin\Debug\GestionInventarioCSV.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\bin\Debug\GestionInventarioCSV.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\bin\Debug\GestionInventarioCSV.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\GestionInventarioCSV\GestionInventarioCSV\obj\Debug\GestionInventarioCSV.pdb
