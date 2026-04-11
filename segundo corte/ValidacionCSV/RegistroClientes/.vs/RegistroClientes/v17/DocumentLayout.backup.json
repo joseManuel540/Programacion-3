@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\segundo corte\\validacioncsv\\registroclientes\\registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|solutionrelative:registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\segundo corte\\validacioncsv\\registroclientes\\registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|solutionrelative:registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\segundo corte\\ValidacionCSV\\RegistroClientes\\RegistroClientes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroClientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\segundo corte\\ValidacionCSV\\RegistroClientes\\RegistroClientes\\Form1.cs",
+              "RelativeToolTip": "RegistroClientes\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:11:23.052Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

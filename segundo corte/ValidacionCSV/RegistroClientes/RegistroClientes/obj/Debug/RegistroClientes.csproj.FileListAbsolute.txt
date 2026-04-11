@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\bin\Debug\RegistroClientes.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\bin\Debug\RegistroClientes.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\bin\Debug\RegistroClientes.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\RegistroClientes\RegistroClientes\obj\Debug\RegistroClientes.exe.config
