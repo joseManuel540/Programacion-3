@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\retos\\reto3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92249328-4DC9-455E-87C0-3693B31087AF}|reto3\\reto3.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\retos\\reto3\\reto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92249328-4DC9-455E-87C0-3693B31087AF}|reto3\\reto3.csproj|solutionrelative:reto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92249328-4DC9-455E-87C0-3693B31087AF}|reto3\\reto3.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\retos\\reto3\\reto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92249328-4DC9-455E-87C0-3693B31087AF}|reto3\\reto3.csproj|solutionrelative:reto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\retos\\reto3\\reto3\\Form1.cs",
+              "RelativeDocumentMoniker": "reto3\\Form1.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\retos\\reto3\\reto3\\Form1.cs",
+              "RelativeToolTip": "reto3\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:16:59.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\retos\\reto3\\reto3\\Form1.cs",
+              "RelativeDocumentMoniker": "reto3\\Form1.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\retos\\reto3\\reto3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "reto3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:57:14.694Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

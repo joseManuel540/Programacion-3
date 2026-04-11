@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\bin\Debug\reto3.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\bin\Debug\reto3.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\bin\Debug\reto3.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\retos\reto3\reto3\obj\Debug\reto3.exe.config

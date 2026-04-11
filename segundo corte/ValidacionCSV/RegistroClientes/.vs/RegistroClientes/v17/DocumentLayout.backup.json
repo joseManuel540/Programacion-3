@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\segundo corte\\ValidacionCSV\\RegistroClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|c:\\users\\josen\\onedrive\\documentos\\github\\programacion-3\\segundo corte\\validacioncsv\\registroclientes\\registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F08CEEB-880F-48D2-ABA9-BB8D01EF0D20}|RegistroClientes\\RegistroClientes.csproj|solutionrelative:registroclientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\segundo corte\\ValidacionCSV\\RegistroClientes\\RegistroClientes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroClientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\josen\\OneDrive\\Documentos\\GitHub\\Programacion-3\\segundo corte\\ValidacionCSV\\RegistroClientes\\RegistroClientes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroClientes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:52:35.309Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
