@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtID = new System.Windows.Forms.TextBox();
-            this.numMonto = new System.Windows.Forms.NumericUpDown();
             this.btnGuardar = new System.Windows.Forms.Button();
+            this.numMonto = new System.Windows.Forms.NumericUpDown();
+            this.txtID = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.listVenta = new System.Windows.Forms.ListBox();
-            this.btnCargar = new System.Windows.Forms.Button();
             this.lblTotal = new System.Windows.Forms.Label();
+            this.btnCargar = new System.Windows.Forms.Button();
+            this.listVenta = new System.Windows.Forms.ListBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numMonto)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -58,14 +58,30 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Nueva Venta";
             // 
-            // label1
+            // btnGuardar
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 47);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(188, 29);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "ID Transaccion";
+            this.btnGuardar.Location = new System.Drawing.Point(7, 198);
+            this.btnGuardar.Name = "btnGuardar";
+            this.btnGuardar.Size = new System.Drawing.Size(282, 57);
+            this.btnGuardar.TabIndex = 4;
+            this.btnGuardar.Text = "Guardar Transaccion";
+            this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
+            // 
+            // numMonto
+            // 
+            this.numMonto.Location = new System.Drawing.Point(450, 91);
+            this.numMonto.Name = "numMonto";
+            this.numMonto.Size = new System.Drawing.Size(196, 35);
+            this.numMonto.TabIndex = 3;
+            this.numMonto.ValueChanged += new System.EventHandler(this.numMonto_ValueChanged);
+            // 
+            // txtID
+            // 
+            this.txtID.Location = new System.Drawing.Point(7, 91);
+            this.txtID.Name = "txtID";
+            this.txtID.Size = new System.Drawing.Size(282, 35);
+            this.txtID.TabIndex = 2;
             // 
             // label2
             // 
@@ -76,29 +92,14 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Monto ($)";
             // 
-            // txtID
+            // label1
             // 
-            this.txtID.Location = new System.Drawing.Point(7, 91);
-            this.txtID.Name = "txtID";
-            this.txtID.Size = new System.Drawing.Size(282, 35);
-            this.txtID.TabIndex = 2;
-            // 
-            // numMonto
-            // 
-            this.numMonto.Location = new System.Drawing.Point(450, 91);
-            this.numMonto.Name = "numMonto";
-            this.numMonto.Size = new System.Drawing.Size(196, 35);
-            this.numMonto.TabIndex = 3;
-            // 
-            // btnGuardar
-            // 
-            this.btnGuardar.Location = new System.Drawing.Point(7, 198);
-            this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(282, 57);
-            this.btnGuardar.TabIndex = 4;
-            this.btnGuardar.Text = "Guardar Transaccion";
-            this.btnGuardar.UseVisualStyleBackColor = true;
-            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(7, 47);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(188, 29);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "ID Transaccion";
             // 
             // groupBox2
             // 
@@ -113,24 +114,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Historial";
             // 
-            // listVenta
-            // 
-            this.listVenta.FormattingEnabled = true;
-            this.listVenta.ItemHeight = 29;
-            this.listVenta.Location = new System.Drawing.Point(12, 45);
-            this.listVenta.Name = "listVenta";
-            this.listVenta.Size = new System.Drawing.Size(941, 207);
-            this.listVenta.TabIndex = 0;
-            // 
-            // btnCargar
-            // 
-            this.btnCargar.Location = new System.Drawing.Point(12, 259);
-            this.btnCargar.Name = "btnCargar";
-            this.btnCargar.Size = new System.Drawing.Size(128, 64);
-            this.btnCargar.TabIndex = 1;
-            this.btnCargar.Text = "Cargar";
-            this.btnCargar.UseVisualStyleBackColor = true;
-            // 
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
@@ -140,6 +123,25 @@
             this.lblTotal.Size = new System.Drawing.Size(150, 29);
             this.lblTotal.TabIndex = 2;
             this.lblTotal.Text = "Total: $0.00";
+            // 
+            // btnCargar
+            // 
+            this.btnCargar.Location = new System.Drawing.Point(12, 259);
+            this.btnCargar.Name = "btnCargar";
+            this.btnCargar.Size = new System.Drawing.Size(128, 64);
+            this.btnCargar.TabIndex = 1;
+            this.btnCargar.Text = "Cargar";
+            this.btnCargar.UseVisualStyleBackColor = true;
+            this.btnCargar.Click += new System.EventHandler(this.btnCargar_Click);
+            // 
+            // listVenta
+            // 
+            this.listVenta.FormattingEnabled = true;
+            this.listVenta.ItemHeight = 29;
+            this.listVenta.Location = new System.Drawing.Point(12, 45);
+            this.listVenta.Name = "listVenta";
+            this.listVenta.Size = new System.Drawing.Size(941, 207);
+            this.listVenta.TabIndex = 0;
             // 
             // Form1
             // 

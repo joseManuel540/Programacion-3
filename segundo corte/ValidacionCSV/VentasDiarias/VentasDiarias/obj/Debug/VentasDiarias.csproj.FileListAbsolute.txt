@@ -1,0 +1,11 @@
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.exe.config
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.Form1.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.Properties.Resources.resources
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.csproj.GenerateResource.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.exe
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.pdb
+C:\Users\josen\OneDrive\Documentos\GitHub\Programacion-3\segundo corte\ValidacionCSV\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.exe.config
