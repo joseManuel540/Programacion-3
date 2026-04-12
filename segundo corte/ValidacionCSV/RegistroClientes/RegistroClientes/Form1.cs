@@ -78,6 +78,30 @@ namespace RegistroClientes
             }
 
             listClientesRegistrados.Items.Clear();
+
+            string[] lineas = File.ReadAllLines(rutaArchivo, Encoding.UTF8);
+
+            // Procesar cada línea (saltar la primera línea que son los encabezados)
+            for (int i = 1; i < lineas.Length; i++)
+            {
+                if (!string.IsNullOrWhiteSpace(lineas[i]))
+                {
+                    string[] campos = lineas[i].Split(',');
+                    if (campos.Length >= 3)
+                    {
+                        string codigo = campos[0].Trim();
+                        string ciudad = campos[1].Trim();
+                        string nombre = campos[2].Trim();
+                        
+
+                        // Concatenar toda la información del producto
+                        string productoCompleto = $"[{codigo}] {nombre} - ciudad: {ciudad}";
+                        listClientesRegistrados.Items.Add(productoCompleto);
+                    }
+                }
+            }
+
+            MessageBox.Show($"Se cargaron {listClientesRegistrados.Items.Count} clientes.", "Carga exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
